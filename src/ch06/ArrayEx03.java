@@ -4,6 +4,7 @@ public class ArrayEx03 {
 
     public static void main(String[] args) {
 
+        // 2중배열
         int[][] nums = { {1,2,3}, {4,5,6} };
 
         System.out.println(nums[0][0]);  // 1
